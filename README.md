@@ -2,8 +2,8 @@
 Uband pythonS2 Work Group--Analyst
 
 # Group Members
-A16042 HeyGiggle
-A13403 guohailu
+A16042 guohailu
+A13403 HeyGiggle
 A10625 Dssyndra
 B17455 Franciehaha
 
