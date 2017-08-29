@@ -4,7 +4,7 @@ Uband pythonS2 Work Group--Analyst
 # Group Members
 A16042 guohailu
 A13403 HeyGiggle
-A10625 Dssyndra
+A10625 Dssyndra Hellow I am Dark Sovereign Syndra. Let's start our battle..
 B17455 Franciehaha
 
 Where there's a will, there's a way!
